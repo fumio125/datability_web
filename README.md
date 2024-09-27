@@ -1,7 +1,7 @@
 # データビリティweb講座（画像処理/大倉担当分）
-データビリティweb講座（画像処理/大倉担当分）の実データ演習
+データビリティweb講座（画像処理/大倉担当分）の演習
 
-## 内容
+## 演習内容
 - [サンプル画像・動画](https://drive.google.com/drive/folders/1vRglA8dPsKaqYOO066_IfzJtj18G045p?usp=sharing)
 
 ### 第3回分
@@ -12,3 +12,12 @@
 ### 第4回分
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/datability_web/blob/master/4-1_optical_flow_iterative.ipynb) [繰り返し最適化によるオプティカルフローの実装](4-1_optical_flow_iterative.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/datability_web/blob/master/4-2_optical_flow_LK.ipynb) [KLT法によるオプティカルフロー（OpenCV）](4-2_optical_flow_LK.ipynb)
+
+
+## 課題
+自分で短い**動画**を撮影し、実際に実行してみましょう。上記のうち、動画を対象とした手法（3-2, 3-3, 4-1, 4-2）2個以上を選んで実行したり、パラメータを調整したりして、以下について論じてください。
+- どういう感じで動画を撮影したらうまくいくか（あるいはうまくいかないか）
+- その動画に適したパラメータを、どのように選択したか
+- その他、結果の考察（結果画像を貼り付けつつ、どのあたりがうまくいって、どのあたりがうまくいかなかったか、など）
+
+以上をドキュメント（WordあるいはPDF）にまとめ、okura (at) ist.osaka-u.ac.jp まで送ってください。メールタイトルに「画像処理講座課題」を含めるようにしてください。

@@ -14,6 +14,10 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/datability_web/blob/master/4-2_optical_flow_LK.ipynb) [KLT法によるオプティカルフロー（OpenCV）](4-2_optical_flow_LK.ipynb)
 
 
+### オプション課題用
+- (docs/intro.pdf)[環境導入の説明]
+
+
 ## 課題
 自分で短い**動画**を撮影し、実際に実行してみましょう。上記のうち、動画を対象とした手法（3-2, 3-3, 4-1, 4-2）から2個以上を選んで実行したり、パラメータを調整したりして、以下について論じてください。
 - どういう感じで動画を撮影したらうまくいくか（あるいはうまくいかないか）

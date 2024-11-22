@@ -16,9 +16,9 @@
 
 ### オプション課題用
 - [オプション課題と環境導入の説明](docs/intro.pdf)
-- [課題例](docs/sample.pdf)
 - [サンプルチュートリアル（ウインドウを開くので、Colabでは動きません）](option.ipynb)
 - [課題実装用雛形](option_sample.py)
+- [課題例](docs/sample.pdf)
 
 
 ## 課題

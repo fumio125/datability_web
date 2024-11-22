@@ -17,7 +17,7 @@
 ### オプション課題用
 - [オプション課題と環境導入の説明](docs/intro.pdf)
 - [サンプルチュートリアル（ウインドウを開くので、Colabでは動きません）](option.ipynb)
-- [課題実装用雛形](option_sample.py)
+- [課題実装用雛形](option_template.py)
 - [課題例](docs/examples.pdf)
 
 
@@ -31,7 +31,7 @@
 - 上記の実装などをもとに、**自分なりに価値がある「自分が得する」アプリケーション**を実装してみましょう。
 - 自分以外の誰にも価値がなくても良いです。提出するドキュメント内に、どのように（自分にとって）価値があるのか、そして、そのためにどうしてその方法を使ったのかを含め、論ずるようにしてください。
 - 詳細は[オプション課題と環境導入の説明](docs/intro.pdf)にあります。
-- ローカル環境にPython + OpenCVを導入し、[サンプルチュートリアル](option.ipynb)を参考に進めて、最後に[課題実装用雛形](option_sample.py)に実装してください。
+- ローカル環境にPython + OpenCVを導入し、[サンプルチュートリアル](option.ipynb)を参考に進めて、最後に[課題実装用雛形](option_template.py)に実装してください。
 - [課題例](docs/examples.pdf)を用意しましたが、これらに限らず、自由な発想で取り組んでください。
 - オプション課題用のサンプル画像は、[サンプル画像・動画](https://drive.google.com/drive/folders/1vRglA8dPsKaqYOO066_IfzJtj18G045p?usp=sharing)の`sample_option`内にあります。
 

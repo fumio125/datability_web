@@ -36,5 +36,5 @@
 - オプション課題用のサンプル画像は、[サンプル画像・動画](https://drive.google.com/drive/folders/1vRglA8dPsKaqYOO066_IfzJtj18G045p?usp=sharing)の`sample_option`内にあります。
 
 ## 提出方法
-- 以上をドキュメント（WordあるいはPDF）にまとめ、okura (at) ist.osaka-u.ac.jp まで送ってください。メールタイトルに「画像処理講座課題」を含めるようにしてください。
+- 以上をドキュメント（PDF）にまとめ、okura (at) ist.osaka-u.ac.jp まで送ってください。メールタイトルに「画像処理講座課題」を含めるようにしてください。
 - オプション課題を実施した場合は、[説明](docs/intro.pdf)にある通り、実装ファイルや画像等も提出してください。サイズが大きい場合は適宜提出方法を工夫してください。

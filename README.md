@@ -13,6 +13,7 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/datability_web/blob/master/4-1_optical_flow_iterative.ipynb) [繰り返し最適化によるオプティカルフローの実装](4-1_optical_flow_iterative.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/datability_web/blob/master/4-2_optical_flow_LK.ipynb) [KLT法によるオプティカルフロー（OpenCV）](4-2_optical_flow_LK.ipynb)
 
+<!--
 
 ### オプション課題用
 - [オプション課題と環境導入の説明](docs/intro.pdf)
@@ -39,3 +40,5 @@
 - 以上をドキュメント（PDF）にまとめ、okura (at) ist.osaka-u.ac.jp まで送ってください。メールタイトルに「画像処理講座課題」を含めるようにしてください。
 - オプション課題を実施した場合は、[説明](docs/intro.pdf)にある通り、実装ファイルや画像等も提出してください。サイズが大きい場合は適宜提出方法を工夫してください。
 - オプション課題を実施した場合は、必須課題のほうはやらなくてもよいです
+
+-->
